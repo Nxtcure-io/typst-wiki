@@ -55,7 +55,7 @@ Notes
 * The vite config has been set to accept .tunnelmole.net as a host
 
 ### TODO
-- [ ] recreate working dev env
+- [x] recreate working dev env
 - [ ] test several pages
 - [ ] test page links 
 - [ ] Add Dockerfile
