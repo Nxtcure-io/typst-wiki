@@ -2,6 +2,6 @@
 
 Content here
 
-1. #link("../category_one/concept_one.html")
-2. Thing Two: We are here
-3. #link("../../index.html")
+1. #link("../category_one/concept_one.html")[Concept One]
+2. Concept Two: We are here
+3. #link("../../index.html")[Index]
