@@ -4,7 +4,7 @@ import typst from '@myriaddreamin/vite-plugin-typst';
 
 // https://vite.dev/config/
 export default defineConfig({
-	plugins: [react(), typst({ documents: ['content/**/*.typ]' })],
+	plugins: [react(), typst({ documents: ['content/**/*.typ'] })],
 	server: {
   		allowedHosts: ['.tunnelmole.net']
 	},	
