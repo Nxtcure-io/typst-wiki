@@ -57,5 +57,5 @@ Notes
 ### TODO
 - [x] recreate working dev env
 - [x] test several pages
-- [ ] test page links 
+- [x] test page links 
 - [ ] Add Dockerfile
